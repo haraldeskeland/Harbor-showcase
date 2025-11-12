@@ -1,43 +1,34 @@
 # Harbor - Ecommerce Dashboard
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/haraldeskeland/Harbor-showcase)
-![GitHub stars](https://img.shields.io/github/stars/haraldeskeland/Harbor-showcase?style=social)
-![GitHub forks](https://img.shields.io/github/forks/haraldeskeland/Harbor-showcase?style=social)
-
-</div>
-
 > A comprehensive ecommerce dashboard for analytics, order management, inventory tracking, and business insights.
 
 Harbor is a modern, feature-rich ecommerce dashboard designed to streamline your online business operations. With real-time analytics, intelligent inventory management, and integrated team collaboration tools, Harbor provides everything you need to run and grow your ecommerce business.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Key Highlights](#-key-highlights)
 - [Technology Stack](#️-technology-stack)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
 
 ---
 
-## ✨ Features
+## Features
 
-### 📊 Analytics Dashboard
+### Analytics Dashboard
 Real-time insights into your business performance with:
 - Sales metrics and trends
 - Revenue tracking
 - Customer behavior analytics
 - Performance KPIs
 - Interactive charts and visualizations
+- Tasks overview
+- Expenses overview
+- Top performing products
 
-### 📦 Orders Management
+### Orders Management
 Comprehensive order tracking and management:
 - Order status tracking
 - Customer information
@@ -45,61 +36,60 @@ Comprehensive order tracking and management:
 - Fulfillment workflow
 - Quick search and filtering
 
-### 🏪 Inventory Overview
+### Inventory Overview
 Smart inventory management system:
 - Real-time stock levels
-- Product catalog management
 - Low stock alerts
-- Inventory history
-- Multi-location support
 
-### 📋 Kanban Board with Slack Notifications
+### Kanban Board with Slack Notifications
 Collaborative task management:
 - Visual workflow management
 - Drag-and-drop interface
 - Real-time Slack notifications
-- Team collaboration
 - Task assignments and tracking
+- Progression overview
+- Table view
+- Timeline view of tasks with due date
 
-### 💰 Margins Calculations
+### Margins Calculations
 Detailed financial insights:
 - Profit margin analysis
 - Cost tracking
 - Revenue breakdowns
-- ROI calculations
-- Financial reporting
+- Return on ad spend -and Profit on ad spend calulations
+- AI forecast for next month
 
 ---
 
 ## 📸 Screenshots
 
 ### Landing Page
-<!-- ![Landing Page](images/screenshots/landing-page.png) -->
-*Screenshot of the landing page will be displayed here*
+![Landing Page](images/screenshots/landing-light.jpg)
+![Landing Page](images/screenshots/landing-dark.jpg)
 
 ### Dashboard
-<!-- ![Dashboard](images/screenshots/dashboard.png) -->
-*Analytics dashboard with real-time metrics will be shown here*
+![Dashboard light](images/screenshots/dashboard-light.jpg)
+![Dashboard dark](images/screenshots/dashboard-dark.jpg)
 
 ### Orders Management
-<!-- ![Orders Page](images/screenshots/orders.png) -->
-*Order tracking and management interface will be displayed here*
+![Orders](images/screenshots/orders-light.jpg)
 
 ### Inventory Management
-<!-- ![Inventory](images/screenshots/inventory.png) -->
-*Inventory overview and management interface will be shown here*
+![inventory](images/screenshots/inventory-light.jpg)
 
 ### Kanban Board
-<!-- ![Kanban Board](images/screenshots/kanban-board.png) -->
-*Collaborative kanban board with Slack integration will be displayed here*
+![Kanban](images/screenshots/kanban-light.jpg)
+![Kanban overview](images/screenshots/kanban-overview-light.jpg)
+![Kanban timeline](images/screenshots/kanban-timeline-light.jpg)
+![Kanban list](images/screenshots/kanban-list-light.jpg)
+
 
 ### Margins & Analytics
-<!-- ![Margins Calculations](images/screenshots/margins.png) -->
-*Financial calculations and profit margins interface will be shown here*
+![Margins](images/screenshots/margins-light.jpg)
 
 ---
 
-## 🚀 Key Highlights
+## Key Highlights
 
 - **Real-Time Updates**: Stay informed with live data synchronization
 - **Slack Integration**: Get instant notifications for critical events
@@ -110,36 +100,11 @@ Detailed financial insights:
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-*Information about the technology stack will be added here*
+React
+Typescript 
+Tailwind CSS
+Supabase
 
----
 
-## 📋 Getting Started
-
-*Setup and installation instructions will be provided*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## 📄 License
-
-*License information will be added*
-
----
-
-## 📧 Contact
-
-For questions or feedback, please reach out through the repository issues.
-
----
-
-<div align="center">
-  <strong>Built with ❤️ for ecommerce businesses</strong>
-</div>
