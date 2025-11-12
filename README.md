@@ -106,9 +106,9 @@ Detailed financial insights:
 
 ## Technology Stack
 
-React
-Typescript 
-Tailwind CSS
-Supabase
+* React
+* Typescript 
+* Tailwind CSS
+* Supabase
 
 
