@@ -66,6 +66,12 @@ Detailed financial insights:
 ### Landing Page
 ![Landing Page](images/screenshots/landing-light.jpg)
 ![Landing Page](images/screenshots/landing-dark.jpg)
+![Why harbor?](images/screenshots/why.png)
+![How it works](images/screenshots/how.png)
+![showcase](images/screenshots/showcase.png)
+![Pricing](images/screenshots/plan.png)
+![Footer](images/screenshots/footer.png)
+
 
 ### Dashboard
 ![Dashboard light](images/screenshots/dashboard-light.jpg)
