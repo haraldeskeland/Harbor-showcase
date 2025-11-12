@@ -1,4 +1,4 @@
-# 🚢 Harbor - Ecommerce Dashboard
+# Harbor - Ecommerce Dashboard
 
 <div align="center">
 
