@@ -1,7 +1,5 @@
 # Harbor - Ecommerce Dashboard
 
-> A comprehensive ecommerce dashboard for analytics, order management, inventory tracking, and business insights.
-
 Harbor is a modern, feature-rich ecommerce dashboard designed to streamline your online business operations. With real-time analytics, intelligent inventory management, and integrated team collaboration tools, Harbor provides everything you need to run and grow your ecommerce business.
 
 ---
