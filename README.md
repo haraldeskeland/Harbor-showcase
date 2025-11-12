@@ -1,8 +1,29 @@
 # 🚢 Harbor - Ecommerce Dashboard
 
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/haraldeskeland/Harbor-showcase)
+![GitHub stars](https://img.shields.io/github/stars/haraldeskeland/Harbor-showcase?style=social)
+![GitHub forks](https://img.shields.io/github/forks/haraldeskeland/Harbor-showcase?style=social)
+
+</div>
+
 > A comprehensive ecommerce dashboard for analytics, order management, inventory tracking, and business insights.
 
 Harbor is a modern, feature-rich ecommerce dashboard designed to streamline your online business operations. With real-time analytics, intelligent inventory management, and integrated team collaboration tools, Harbor provides everything you need to run and grow your ecommerce business.
+
+---
+
+## 📑 Table of Contents
+
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Key Highlights](#-key-highlights)
+- [Technology Stack](#️-technology-stack)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
@@ -53,22 +74,28 @@ Detailed financial insights:
 ## 📸 Screenshots
 
 ### Landing Page
-*Coming soon - Landing page showcasing Harbor's key features*
+<!-- ![Landing Page](images/screenshots/landing-page.png) -->
+*Screenshot of the landing page will be displayed here*
 
 ### Dashboard
-*Coming soon - Analytics dashboard with real-time metrics*
+<!-- ![Dashboard](images/screenshots/dashboard.png) -->
+*Analytics dashboard with real-time metrics will be shown here*
 
 ### Orders Management
-*Coming soon - Order tracking and management interface*
+<!-- ![Orders Page](images/screenshots/orders.png) -->
+*Order tracking and management interface will be displayed here*
 
 ### Inventory Management
-*Coming soon - Inventory overview and management*
+<!-- ![Inventory](images/screenshots/inventory.png) -->
+*Inventory overview and management interface will be shown here*
 
 ### Kanban Board
-*Coming soon - Collaborative kanban board with Slack integration*
+<!-- ![Kanban Board](images/screenshots/kanban-board.png) -->
+*Collaborative kanban board with Slack integration will be displayed here*
 
 ### Margins & Analytics
-*Coming soon - Financial calculations and profit margins*
+<!-- ![Margins Calculations](images/screenshots/margins.png) -->
+*Financial calculations and profit margins interface will be shown here*
 
 ---
 
